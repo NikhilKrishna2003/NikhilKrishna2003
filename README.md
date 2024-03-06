@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm B NIKHIL KRISHNA</h1>
 <h3 align="center">A passionate software developer and Web Developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🎓 I am a Final year Student in Electronics and Communications Engineering @IIITDM Jabalpur Campus
+  
+- 🌱 Currently exploring ReactJs.
+  
+- 🧭Proficient in Full Stack web Development.
+
+- Always trying to learn new Technologies
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilKrishna2003](https://github.com/NikhilKrishna2003)
 
 - 💬 Ask me about **C++,Python,ExpressJS,NodeJs,Js,HTML,Css**
 
 - 📫 How to reach me **20bec023@iiitdmj.ac.in**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
