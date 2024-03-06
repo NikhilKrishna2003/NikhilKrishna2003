@@ -5,7 +5,7 @@
   
 - 🌱 Currently exploring ReactJs.
   
-- 🧭Proficient in Full Stack web Development.
+- 🧭Proficient  Software Developer and Full Stack web Developer.
 
 - Always trying to learn new Technologies
 
