@@ -19,6 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/urstruely_b.nikhilkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urstruely_b.nikhilkrishna" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/niki_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niki_2003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bnk28012003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bnk28012003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bnk10370941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bnk10370941" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
