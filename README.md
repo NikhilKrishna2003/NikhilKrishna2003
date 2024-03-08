@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B NIKHIL KRISHNA</h1>
-<h3 align="center">A passionate software developer and Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer and Web Developer from India</h3>
 
 - 🎓 I am a Final year Student in Electronics and Communications Engineering @IIITDM Jabalpur Campus
   
