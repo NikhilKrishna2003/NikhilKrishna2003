@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B Nikhil Krishna</h1>
-<h3 align="center">Data & Software Developer | Python • SQL • GenAI • Data Analytics</h3>
+<h3 align="center">Data & Software Developer | Python • SQL • GenAI • LLM • Data Analytics</h3>
 
 ---
 
@@ -35,7 +35,9 @@ Electronics and Communication Engineering
 * NumPy
 * PySpark
 * Data Wrangling
-* A/B Testing
+* Excel
+* PowerBi
+* Tableau
 
 ### Databases
 
@@ -55,7 +57,7 @@ Electronics and Communication Engineering
 
 * Git
 * Postman
-* Power BI
+* Databricks
 * Figma
 
 ---
@@ -65,7 +67,7 @@ Electronics and Communication Engineering
 • Data Modeling (Star Schema)
 • ETL Pipelines
 • Data Warehousing
-• PySpark for Big Data
+• PySpark for Big Data in databricks
 • GenAI-powered Data Analysis Systems
 
 ---
