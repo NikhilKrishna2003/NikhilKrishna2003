@@ -1,34 +1,35 @@
 <h1 align="center">Hi 👋, I'm B Nikhil Krishna</h1>
-<h3 align="center">Data & Software Developer | Python • SQL • Data Analytics • Web Development</h3>
+<h3 align="center">Data & Software Developer | Python • SQL • GenAI • Data Analytics</h3>
 
 ---
 
 🎓 **Education**
+
 Electronics and Communication Engineering
-IIITDM Jabalpur — *Graduated 2024*
+**IIITDM Jabalpur** — Graduated 2024
 
 ---
 
 🚀 **About Me**
 
-* 💻 Software Developer with strong interest in **Data Analytics and AI-driven systems**
-* 📊 Skilled in **Python, SQL, Data Analysis, and Data Visualization**
-* ⚡ Experience in **Full Stack Web Development**
-* 🧠 Currently learning **PySpark, Data Engineering workflows, and AI Agents**
-* 📈 Interested in **building data-driven products and analytics dashboards**
+• Software Developer with strong interest in **Data Analytics and AI-driven systems**
+• Skilled in **Python, SQL, Data Analysis, and Data Visualization**
+• Experience in **Full Stack Web Development**
+• Currently learning **PySpark, Data Engineering workflows, and AI Agents**
+• Passionate about building **data-driven products and intelligent analytics systems**
 
 ---
 
 🛠 **Tech Stack**
 
-**Languages**
+### Languages
 
 * Python
 * SQL
 * C++
 * JavaScript
 
-**Data & Analytics**
+### Data & Analytics
 
 * Pandas
 * NumPy
@@ -36,12 +37,12 @@ IIITDM Jabalpur — *Graduated 2024*
 * Data Wrangling
 * A/B Testing
 
-**Databases**
+### Databases
 
 * MySQL
 * MongoDB
 
-**Web Development**
+### Web Development
 
 * Node.js
 * Express.js
@@ -50,7 +51,7 @@ IIITDM Jabalpur — *Graduated 2024*
 * CSS
 * Bootstrap
 
-**Tools**
+### Tools
 
 * Git
 * Postman
@@ -61,25 +62,28 @@ IIITDM Jabalpur — *Graduated 2024*
 
 📊 **Current Learning Focus**
 
-* Data Modeling (Star Schema)
-* ETL Pipelines
-* Data Warehousing
-* PySpark for Big Data
-* AI Agents for Data Analysis
+• Data Modeling (Star Schema)
+• ETL Pipelines
+• Data Warehousing
+• PySpark for Big Data
+• GenAI-powered Data Analysis Systems
 
 ---
 
 📂 **Projects**
 
 All my projects are available here:
-🔗 https://github.com/NikhilKrishna2003
 
-Some focus areas of my projects include:
+🔗 **GitHub Repository**
+https://github.com/NikhilKrishna2003
 
-* Data Analytics Pipelines
-* Dashboard Development
-* AI-assisted Data Analysis
-* Full Stack Web Applications
+Highlighted project areas:
+
+• GenAI Data Analytics Systems
+• Data Engineering Pipelines
+• Business Intelligence Dashboards
+• AI-assisted Data Analysis
+• Full Stack Web Applications
 
 ---
 
@@ -100,4 +104,4 @@ Email: **[20bec023@iiitdmj.ac.in](mailto:20bec023@iiitdmj.ac.in)**
 
 ---
 
-⭐ **Always exploring new technologies and building meaningful projects.**
+⭐ **Always exploring new technologies and building impactful data-driven applications.**
