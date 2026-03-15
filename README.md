@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B Nikhil Krishna</h1>
-<h3 align="center">Data Analytics and Engineer| Python • SQL • Pyspark • deltalake Architecture • GenAI • LLM • Tableau • PowerBi</h3>
+<h3 align="center">Data Analytics and Engineer| Python • SQL • Pyspark • databricks • deltalake Architecture • GenAI • LLM • Tableau • PowerBi</h3>
 
 ---
 
